@@ -11,6 +11,8 @@ namespace ProjektInfSus
         {
             Console.WriteLine("09.03.2015");
             Console.WriteLine("09.03.2015");
+
+            Console.WriteLine("Prva vjezba iz PiS-a");
             Console.ReadLine();
         }
     }
