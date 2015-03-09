@@ -19,6 +19,11 @@ namespace ProjektInfSus
             Console.WriteLine("Nova linija");
             
 
+            Console.WriteLine("Pozz lausicu iz omisa!");
+            
+            
+            Console.WriteLine("moja liija");
+            
             Console.ReadLine();
         }
     }
