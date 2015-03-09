@@ -10,6 +10,7 @@ namespace ProjektInfSus
         static void Main(string[] args)
         {
             Console.WriteLine("09.03.2015");
+            Console.WriteLine("09.03.2015");
             Console.ReadLine();
         }
     }
