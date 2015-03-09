@@ -14,6 +14,7 @@ namespace ProjektInfSus
 
             Console.WriteLine("Prva vjezba iz PiS-a");
             Console.WriteLine("Prva vjezba iz PiS-a");
+            Console.WriteLine("Pozz lausicu ljepotanu iz omisa!");
             Console.ReadLine();
         }
     }
